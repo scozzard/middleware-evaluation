@@ -26,7 +26,7 @@ To visit the swagger homepage, go to https://localhost:7282/swagger/index.html.
 
 **via the IDE**
 
-Simply opening the solution and running the application in Visual Studio 2022 with any profile.
+Simply opening the solution and run the application in Visual Studio 2022 with any profile.
 
 ### View Deployed App
 
