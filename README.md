@@ -23,4 +23,4 @@ If you have the .NET 6 SDK installed, go to the root directory and run the comma
 
 **via the IDE**
 
-Simply opening the solution and running the application in Visual Studio 2022, with any of the profiles e.g., docker, IIS etc.
+Simply opening the solution and running the application in Visual Studio 2022 with any of the profile.
