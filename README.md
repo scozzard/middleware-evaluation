@@ -5,6 +5,7 @@
 - [General Information](#general-information)
 - [Requirements](#requirements)
 - [Running Locally](#running-locally)
+- [View Deployed App](#view-deployed-app) 
 
 ### General Information
 
@@ -24,3 +25,10 @@ If you have the .NET 6 SDK installed, go to the root directory and run the comma
 **via the IDE**
 
 Simply opening the solution and running the application in Visual Studio 2022 with any of the profile.
+
+### View Deployed App
+
+The app is currently deployed in my GCP instance (Cloud Run).
+
+- [click here](https://evaluation-bvxeantrgq-ue.a.run.app/swagger/index.html) to view the swagger documentation.
+- [click here](https://evaluation-bvxeantrgq-ue.a.run.app/v1/companies/1) to access the `/companies` endpoint directly.
