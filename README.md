@@ -19,7 +19,7 @@ This application is a simple .NET 6 Web API that connects to a static XML API an
 
 **via the dotnet cli**
 
-If you have the .NET 6 SDK installed, go to the root directory and run the command `dotnet build`, and then `dotnet run`. To visit the swagger homepage, go to https://localhost:7282/swagger/index.html.
+If you have the .NET 6 SDK installed, go to the root directory and run the command `dotnet build`, and then `dotnet run --project src/Evaluation.Api/Evaluation.Api.csproj`. To visit the swagger homepage, go to https://localhost:7282/swagger/index.html.
 
 **via the IDE**
 
