@@ -5,7 +5,6 @@
 - [General Information](#general-information)
 - [Requirements](#requirements)
 - [Running Locally](#running-locally)
-- [View Deployed App](#view-deployed-app) 
 
 ### General Information
 
@@ -27,10 +26,3 @@ To visit the swagger homepage, go to https://localhost:7282/swagger/index.html.
 **via the IDE**
 
 Simply opening the solution and run the application in Visual Studio 2022 with any profile.
-
-### View Deployed App
-
-The app is currently deployed in my GCP instance (Cloud Run).
-
-- [click here](https://evaluation-bvxeantrgq-ue.a.run.app/swagger/index.html) to view the swagger documentation.
-- [click here](https://evaluation-bvxeantrgq-ue.a.run.app/v1/companies/1) to access the `/companies` endpoint directly.
